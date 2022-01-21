@@ -1,0 +1,59 @@
+{
+  "size": 300,
+  "role": [
+    {
+      "id": 1,
+      "type": "role",
+      "name": "萌妹子",
+      "img": "/assets/role/role1.jpg",
+      "local": 10,
+      "pos": 0,
+      "lang": 20
+    },
+    {
+      "id": 2,
+      "type": "role",
+      "name": "蓝发妹子",
+      "img": "/assets/role/role2.jpg",
+      "local": 20,
+      "pos": 1,
+      "lang": 20
+    },
+    {
+      "id": 3,
+      "type": "role",
+      "name": "红发小姐姐",
+      "img": "/assets/role/role3.jpg",
+      "local": 130,
+      "pos": 1,
+      "lang": 20
+    },
+    {
+      "id": 4,
+      "type": "role",
+      "name": "小女孩",
+      "img": "/assets/role/role4.jpg",
+      "local": 180,
+      "pos": 0,
+      "lang": 15
+    },
+    {
+      "id": 5,
+      "type": "role",
+      "name": "笑JK",
+      "img": "/assets/role/role5.jpg",
+      "local": 230,
+      "pos": 1,
+      "lang": 15
+    },
+    {
+      "id": 6,
+      "type": "role",
+      "name": "笑JK2",
+      "img": "/assets/role/role5.jpg",
+      "local": 230,
+      "pos": 0,
+      "lang": 15
+    }
+  ]
+}
