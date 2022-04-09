@@ -1,11 +1,15 @@
 <template>
   <div id="app">
     <div id="nav">
+      <router-link to="/">Index</router-link>
+      |
       <router-link to="/Vertical">竖版</router-link>
       |
-      <router-link to="/Home">人物预览</router-link>
+      <router-link to="/Home">Home</router-link>
       |
-      <router-link to="/Home">人物预览</router-link>
+      <router-link to="/Preview">人物预览</router-link>
+      |
+      <router-link to="/About">About</router-link>
     </div>
     <router-view/>
   </div>
