@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 import Preview from '../views/Preview.vue'
 import Home from '../views/Home.vue'
 import Index from '../views/Index.vue'
+import Demo from '../views/Demo.vue'
 
 import Vertical from "@/views/Vertical";
 Vue.use(VueRouter)
@@ -17,6 +18,11 @@ const routes = [
     path: '/Home',
     name: 'Home',
     component: Home
+  },
+  {
+    path: '/Demo',
+    name: 'Demo',
+    component: Demo
   },
   {
     path: '/Preview',
