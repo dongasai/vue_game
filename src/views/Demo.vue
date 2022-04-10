@@ -3,13 +3,13 @@
     <img alt="Vue logo" :src="img1">
 
     <br>
-    <img alt="IMga" src="../assets/items_icon/itm010100011.png">
+    <img alt="IMga" src="../../public/assets/items_icon/itm010100011.png">
 
   </div>
 </template>
 
 <script>
-import img1 from "../assets/items_icon/itm010100011.png";
+import img1 from "../../public/assets/items_icon/itm010100011.png";
 
 export default {
   name: 'Home',
